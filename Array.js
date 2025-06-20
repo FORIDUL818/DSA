@@ -2,7 +2,8 @@
 function linearSearch(arr,target) {
     let data=0;
     for (let i = 0; i < arr.length; i++) {
-        if (arr[i]<target && arr[i]>30) {
+        if (arr[i]<target && arr[i]>30)
+             {
             console.log(arr[i])
         }
         
