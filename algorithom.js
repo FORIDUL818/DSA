@@ -20,7 +20,7 @@ linearSearch(arr,target)
 function binarySearch(arr, target) {
     let low = 0;
     let high = arr.length - 1;
-
+     
     while (low <= high) {
         let mid = Math.floor((low + high) / 2);
 
