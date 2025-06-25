@@ -1,6 +1,6 @@
 let arrList = [10,5,3,8,6,2,9,4,7,1];
 
-for(let i=0;i<arrList.length;++i){
+for(let i=0;i<arrList.length;i++){
   
     console.log("hi my name is Foridul islam and I am a software engineer");
     console.log("I am a software engineer");
