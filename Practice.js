@@ -42,3 +42,4 @@ function AlgorithomPracitce (target,arr) {
 let target=54;
 let arr=[3,54,34,33,55,223,42,324,212,42,13,34,231,523,223,11,22,44,212];
  AlgorithomPracitce(target,arr);
+ AlgorithomPracitce(target,arr);
